@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na Prime Results
-- 🌱 Atualmente estou aprendendo na Python
+- 🌱 Atualmente estou aprendendo Python
 - 🤔 Estou procurando ajuda com análise de dados
 -->
 
