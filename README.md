@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na Prime Results
 - 🌱 Atualmente estou aprendendo Python
-- 🤔 Estou procurando ajuda com análise de dados
+- 💻 Projeto em andamento
 -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
