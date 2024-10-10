@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na Prime Results
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou aprendendo Java
 - 💻 Projeto em andamento
 -->
 <div style="display: inline_block"><br>
